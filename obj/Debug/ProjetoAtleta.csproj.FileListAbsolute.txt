@@ -1,0 +1,9 @@
+C:\Users\natin\OneDrive\Documentos\Escola - Sophia\POO\ProjetoAtleta\bin\Debug\ProjetoAtleta.exe.config
+C:\Users\natin\OneDrive\Documentos\Escola - Sophia\POO\ProjetoAtleta\bin\Debug\ProjetoAtleta.exe
+C:\Users\natin\OneDrive\Documentos\Escola - Sophia\POO\ProjetoAtleta\bin\Debug\ProjetoAtleta.pdb
+C:\Users\natin\OneDrive\Documentos\Escola - Sophia\POO\ProjetoAtleta\obj\Debug\ProjetoAtleta.csprojAssemblyReference.cache
+C:\Users\natin\OneDrive\Documentos\Escola - Sophia\POO\ProjetoAtleta\obj\Debug\ProjetoAtleta.Form1.resources
+C:\Users\natin\OneDrive\Documentos\Escola - Sophia\POO\ProjetoAtleta\obj\Debug\ProjetoAtleta.Properties.Resources.resources
+C:\Users\natin\OneDrive\Documentos\Escola - Sophia\POO\ProjetoAtleta\obj\Debug\ProjetoAtleta.csproj.GenerateResource.cache
+C:\Users\natin\OneDrive\Documentos\Escola - Sophia\POO\ProjetoAtleta\obj\Debug\ProjetoAtleta.exe
+C:\Users\natin\OneDrive\Documentos\Escola - Sophia\POO\ProjetoAtleta\obj\Debug\ProjetoAtleta.pdb
